@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1075923906124",
+    "firebase_url": "https://fart-magazine-d209a.firebaseio.com",
+    "project_id": "fart-magazine-d209a",
+    "storage_bucket": "fart-magazine-d209a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075923906124:android:249ef1c35e1689c1150ee9",
+        "android_client_info": {
+          "package_name": "com.example.fart_magazine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075923906124-inpg9j4hfpm429c88bmlshdqsjldfl9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSfMkUOQdOP2_LR8vSx7Lw-2iop1CZJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075923906124-inpg9j4hfpm429c88bmlshdqsjldfl9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
